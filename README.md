@@ -9,6 +9,5 @@ The following question can be answered using charts :
 3)What are different order status in 2022.
 4)list top 10 contributing state in 2022.
 5)Relation between age and gender based on number.
-
 6)Which channel is contributing to maximum sale
 7)Highest selling categiory,etc
